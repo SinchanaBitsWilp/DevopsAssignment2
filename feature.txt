@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 Change from main branch
+=======
+This is a new feature A
+Change from the development branch.
+>>>>>>> development
